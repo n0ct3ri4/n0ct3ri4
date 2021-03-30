@@ -1,13 +1,22 @@
-## n0ct3ri4's GitHub page.
+## n0ct3ri4's GitHub.
 
-- 👋 Hi, I’m @n0ct3ri4
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on some project
+- 👋 Hi, I’m @n0ct3ri4 !
+- 👀 I’m interested in new technologies.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking for partners to make a team.
 
 ## 📫 How to reach me : 
+
 - E-Mail : `contact@wlvs.fr`
 - Discord : `n0ct3ri4#0806`
+
+## 🧠 I'm programming on :
+
+- NodeJS
+- Java
+- PHP
+- HTML
+- CSS
 
 <!---
 n0ct3ri4/n0ct3ri4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
