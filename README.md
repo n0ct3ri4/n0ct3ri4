@@ -10,7 +10,7 @@
 - E-Mail : `contact@wlvs.fr`
 - Discord : `n0ct3ri4#0806`
 
-## 🧠 I'm programming on :
+## 🧠 I'm programming in :
 
 - NodeJS
 - Java
