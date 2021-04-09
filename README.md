@@ -13,7 +13,6 @@
 ## 🧠 I'm programming in :
 
 - NodeJS
-- Java
 - PHP
 - HTML
 - CSS
