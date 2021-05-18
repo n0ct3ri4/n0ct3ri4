@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @n0ct3ri4 !
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m still learning NodeJS.
 - 💞️ I’m looking for partners to make a team.
 
 ## 📫 How to reach me : 
