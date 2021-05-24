@@ -7,7 +7,7 @@
 
 ## 📫 How to reach me : 
 
-- E-Mail : `contact@wlvs.fr`
+- E-Mail : `contact.nocteria@gmail.com`
 - Discord : `n0ct3ri4#0806`
 
 ## 🧠 I'm programming in :
